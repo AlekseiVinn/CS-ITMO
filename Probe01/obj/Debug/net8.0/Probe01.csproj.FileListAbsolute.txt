@@ -1,0 +1,14 @@
+E:\C#\2023\Probe01\bin\Debug\net8.0\Probe01.exe
+E:\C#\2023\Probe01\bin\Debug\net8.0\Probe01.deps.json
+E:\C#\2023\Probe01\bin\Debug\net8.0\Probe01.runtimeconfig.json
+E:\C#\2023\Probe01\bin\Debug\net8.0\Probe01.dll
+E:\C#\2023\Probe01\bin\Debug\net8.0\Probe01.pdb
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.AssemblyInfoInputs.cache
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.AssemblyInfo.cs
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.csproj.CoreCompileInputs.cache
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.dll
+E:\C#\2023\Probe01\obj\Debug\net8.0\refint\Probe01.dll
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.pdb
+E:\C#\2023\Probe01\obj\Debug\net8.0\Probe01.genruntimeconfig.cache
+E:\C#\2023\Probe01\obj\Debug\net8.0\ref\Probe01.dll
