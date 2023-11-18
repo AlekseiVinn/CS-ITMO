@@ -1,0 +1,7 @@
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\bin\Debug\Divider.exe.config
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\bin\Debug\Divider.exe
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\bin\Debug\Divider.pdb
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\obj\Debug\Divider.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\obj\Debug\Divider.exe
+E:\C#\C# ITMO\Lab01\Task02,03,04\Divider\obj\Debug\Divider.pdb

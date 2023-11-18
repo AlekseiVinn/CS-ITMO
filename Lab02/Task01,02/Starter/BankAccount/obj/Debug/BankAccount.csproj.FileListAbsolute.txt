@@ -1,0 +1,7 @@
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\bin\Debug\BankAccount.exe.config
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\bin\Debug\BankAccount.exe
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\bin\Debug\BankAccount.pdb
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\obj\Debug\BankAccount.exe
+E:\C#\C# ITMO\Lab02\Task01\Starter\BankAccount\obj\Debug\BankAccount.pdb

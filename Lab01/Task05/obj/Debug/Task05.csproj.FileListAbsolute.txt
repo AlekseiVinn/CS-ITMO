@@ -1,0 +1,7 @@
+E:\C#\C# ITMO\Lab01\Task05\bin\Debug\Task05.exe.config
+E:\C#\C# ITMO\Lab01\Task05\bin\Debug\Task05.exe
+E:\C#\C# ITMO\Lab01\Task05\bin\Debug\Task05.pdb
+E:\C#\C# ITMO\Lab01\Task05\obj\Debug\Task05.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab01\Task05\obj\Debug\Task05.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab01\Task05\obj\Debug\Task05.exe
+E:\C#\C# ITMO\Lab01\Task05\obj\Debug\Task05.pdb

@@ -1,0 +1,21 @@
+E:\C#\2023\Lab02\Greetings\bin\Debug\Greetings.exe.config
+E:\C#\2023\Lab02\Greetings\bin\Debug\Greetings.exe
+E:\C#\2023\Lab02\Greetings\bin\Debug\Greetings.pdb
+E:\C#\2023\Lab02\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+E:\C#\2023\Lab02\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+E:\C#\2023\Lab02\Greetings\obj\Debug\Greetings.exe
+E:\C#\2023\Lab02\Greetings\obj\Debug\Greetings.pdb
+E:\C#\2023\Lab01\Task02\Greetings\bin\Debug\Greetings.exe.config
+E:\C#\2023\Lab01\Task02\Greetings\bin\Debug\Greetings.exe
+E:\C#\2023\Lab01\Task02\Greetings\bin\Debug\Greetings.pdb
+E:\C#\2023\Lab01\Task02\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+E:\C#\2023\Lab01\Task02\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+E:\C#\2023\Lab01\Task02\Greetings\obj\Debug\Greetings.exe
+E:\C#\2023\Lab01\Task02\Greetings\obj\Debug\Greetings.pdb
+E:\C#\C# ITMO\Lab01\Task02\Greetings\bin\Debug\Greetings.exe.config
+E:\C#\C# ITMO\Lab01\Task02\Greetings\bin\Debug\Greetings.exe
+E:\C#\C# ITMO\Lab01\Task02\Greetings\bin\Debug\Greetings.pdb
+E:\C#\C# ITMO\Lab01\Task02\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab01\Task02\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab01\Task02\Greetings\obj\Debug\Greetings.exe
+E:\C#\C# ITMO\Lab01\Task02\Greetings\obj\Debug\Greetings.pdb
