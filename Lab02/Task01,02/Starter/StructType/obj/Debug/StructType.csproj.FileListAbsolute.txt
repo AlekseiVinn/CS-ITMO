@@ -5,3 +5,10 @@ E:\C#\C# ITMO\Lab02\Task01\Starter\StructType\obj\Debug\StructType.csproj.Assemb
 E:\C#\C# ITMO\Lab02\Task01\Starter\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
 E:\C#\C# ITMO\Lab02\Task01\Starter\StructType\obj\Debug\StructType.exe
 E:\C#\C# ITMO\Lab02\Task01\Starter\StructType\obj\Debug\StructType.pdb
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\bin\Debug\StructType.exe.config
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\bin\Debug\StructType.exe
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\bin\Debug\StructType.pdb
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\obj\Debug\StructType.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\obj\Debug\StructType.exe
+E:\C#\C# ITMO\Lab02\Task01,02\Starter\StructType\obj\Debug\StructType.pdb

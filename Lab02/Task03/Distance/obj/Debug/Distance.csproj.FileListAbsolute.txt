@@ -1,0 +1,7 @@
+E:\C#\C# ITMO\Lab02\Task03\Distance\bin\Debug\Distance.exe.config
+E:\C#\C# ITMO\Lab02\Task03\Distance\bin\Debug\Distance.exe
+E:\C#\C# ITMO\Lab02\Task03\Distance\bin\Debug\Distance.pdb
+E:\C#\C# ITMO\Lab02\Task03\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab02\Task03\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab02\Task03\Distance\obj\Debug\Distance.exe
+E:\C#\C# ITMO\Lab02\Task03\Distance\obj\Debug\Distance.pdb
