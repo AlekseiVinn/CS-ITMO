@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab03\Task04\bin\Debug\net8.0\ShootingRange.exe
+E:\C#\C# ITMO\Lab03\Task04\bin\Debug\net8.0\ShootingRange.deps.json
+E:\C#\C# ITMO\Lab03\Task04\bin\Debug\net8.0\ShootingRange.runtimeconfig.json
+E:\C#\C# ITMO\Lab03\Task04\bin\Debug\net8.0\ShootingRange.dll
+E:\C#\C# ITMO\Lab03\Task04\bin\Debug\net8.0\ShootingRange.pdb
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.sourcelink.json
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.dll
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\refint\ShootingRange.dll
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.pdb
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ShootingRange.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab03\Task04\obj\Debug\net8.0\ref\ShootingRange.dll

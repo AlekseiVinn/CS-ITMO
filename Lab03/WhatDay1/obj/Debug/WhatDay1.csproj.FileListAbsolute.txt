@@ -1,0 +1,7 @@
+E:\C#\C# ITMO\Lab03\WhatDay1\bin\Debug\WhatDay1.exe.config
+E:\C#\C# ITMO\Lab03\WhatDay1\bin\Debug\WhatDay1.exe
+E:\C#\C# ITMO\Lab03\WhatDay1\bin\Debug\WhatDay1.pdb
+E:\C#\C# ITMO\Lab03\WhatDay1\obj\Debug\WhatDay1.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab03\WhatDay1\obj\Debug\WhatDay1.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab03\WhatDay1\obj\Debug\WhatDay1.exe
+E:\C#\C# ITMO\Lab03\WhatDay1\obj\Debug\WhatDay1.pdb
