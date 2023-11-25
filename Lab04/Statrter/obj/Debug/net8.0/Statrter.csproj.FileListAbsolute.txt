@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab04\Statrter\bin\Debug\net8.0\Statrter.exe
+E:\C#\C# ITMO\Lab04\Statrter\bin\Debug\net8.0\Statrter.deps.json
+E:\C#\C# ITMO\Lab04\Statrter\bin\Debug\net8.0\Statrter.runtimeconfig.json
+E:\C#\C# ITMO\Lab04\Statrter\bin\Debug\net8.0\Statrter.dll
+E:\C#\C# ITMO\Lab04\Statrter\bin\Debug\net8.0\Statrter.pdb
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.sourcelink.json
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.dll
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\refint\Statrter.dll
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.pdb
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\Statrter.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab04\Statrter\obj\Debug\net8.0\ref\Statrter.dll
