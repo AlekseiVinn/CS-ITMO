@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab05\FileDetails\bin\Debug\net8.0\FileDetails.exe
+E:\C#\C# ITMO\Lab05\FileDetails\bin\Debug\net8.0\FileDetails.deps.json
+E:\C#\C# ITMO\Lab05\FileDetails\bin\Debug\net8.0\FileDetails.runtimeconfig.json
+E:\C#\C# ITMO\Lab05\FileDetails\bin\Debug\net8.0\FileDetails.dll
+E:\C#\C# ITMO\Lab05\FileDetails\bin\Debug\net8.0\FileDetails.pdb
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.sourcelink.json
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.dll
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\refint\FileDetails.dll
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.pdb
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\FileDetails.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab05\FileDetails\obj\Debug\net8.0\ref\FileDetails.dll

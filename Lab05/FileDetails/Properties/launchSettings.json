@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileDetails": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\C#\\C# ITMO\\Lab05\\FileDetails\\FileDetails.cs\""
+    }
+  }
+}

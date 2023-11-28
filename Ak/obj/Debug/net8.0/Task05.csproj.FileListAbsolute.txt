@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab04\Task05\bin\Debug\net8.0\Task05.exe
+E:\C#\C# ITMO\Lab04\Task05\bin\Debug\net8.0\Task05.deps.json
+E:\C#\C# ITMO\Lab04\Task05\bin\Debug\net8.0\Task05.runtimeconfig.json
+E:\C#\C# ITMO\Lab04\Task05\bin\Debug\net8.0\Task05.dll
+E:\C#\C# ITMO\Lab04\Task05\bin\Debug\net8.0\Task05.pdb
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.sourcelink.json
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.dll
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\refint\Task05.dll
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.pdb
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\Task05.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab04\Task05\obj\Debug\net8.0\ref\Task05.dll

@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Ak\bin\Debug\net8.0\EquationToTuple.exe
+E:\C#\C# ITMO\Ak\bin\Debug\net8.0\EquationToTuple.deps.json
+E:\C#\C# ITMO\Ak\bin\Debug\net8.0\EquationToTuple.runtimeconfig.json
+E:\C#\C# ITMO\Ak\bin\Debug\net8.0\EquationToTuple.dll
+E:\C#\C# ITMO\Ak\bin\Debug\net8.0\EquationToTuple.pdb
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.AssemblyInfo.cs
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.sourcelink.json
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.dll
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\refint\EquationToTuple.dll
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.pdb
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\EquationToTuple.genruntimeconfig.cache
+E:\C#\C# ITMO\Ak\obj\Debug\net8.0\ref\EquationToTuple.dll
