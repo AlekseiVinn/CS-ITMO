@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab06\CreateAccount\bin\Debug\net8.0\CreateAccount.exe
+E:\C#\C# ITMO\Lab06\CreateAccount\bin\Debug\net8.0\CreateAccount.deps.json
+E:\C#\C# ITMO\Lab06\CreateAccount\bin\Debug\net8.0\CreateAccount.runtimeconfig.json
+E:\C#\C# ITMO\Lab06\CreateAccount\bin\Debug\net8.0\CreateAccount.dll
+E:\C#\C# ITMO\Lab06\CreateAccount\bin\Debug\net8.0\CreateAccount.pdb
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.sourcelink.json
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.dll
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\refint\CreateAccount.dll
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.pdb
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\CreateAccount.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab06\CreateAccount\obj\Debug\net8.0\ref\CreateAccount.dll
