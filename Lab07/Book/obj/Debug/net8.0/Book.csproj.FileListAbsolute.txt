@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab07\Book\bin\Debug\net8.0\Book.exe
+E:\C#\C# ITMO\Lab07\Book\bin\Debug\net8.0\Book.deps.json
+E:\C#\C# ITMO\Lab07\Book\bin\Debug\net8.0\Book.runtimeconfig.json
+E:\C#\C# ITMO\Lab07\Book\bin\Debug\net8.0\Book.dll
+E:\C#\C# ITMO\Lab07\Book\bin\Debug\net8.0\Book.pdb
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.sourcelink.json
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.dll
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\refint\Book.dll
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.pdb
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\Book.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab07\Book\obj\Debug\net8.0\ref\Book.dll

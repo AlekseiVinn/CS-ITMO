@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab07\InterfaceTest\bin\Debug\net8.0\InterfaceTest.exe
+E:\C#\C# ITMO\Lab07\InterfaceTest\bin\Debug\net8.0\InterfaceTest.deps.json
+E:\C#\C# ITMO\Lab07\InterfaceTest\bin\Debug\net8.0\InterfaceTest.runtimeconfig.json
+E:\C#\C# ITMO\Lab07\InterfaceTest\bin\Debug\net8.0\InterfaceTest.dll
+E:\C#\C# ITMO\Lab07\InterfaceTest\bin\Debug\net8.0\InterfaceTest.pdb
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.sourcelink.json
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.dll
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\refint\InterfaceTest.dll
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.pdb
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\InterfaceTest.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab07\InterfaceTest\obj\Debug\net8.0\ref\InterfaceTest.dll

@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+E:\C#\C# ITMO\Lab07\Utils\bin\Debug\net8.0\Utils.exe
+E:\C#\C# ITMO\Lab07\Utils\bin\Debug\net8.0\Utils.deps.json
+E:\C#\C# ITMO\Lab07\Utils\bin\Debug\net8.0\Utils.runtimeconfig.json
+E:\C#\C# ITMO\Lab07\Utils\bin\Debug\net8.0\Utils.dll
+E:\C#\C# ITMO\Lab07\Utils\bin\Debug\net8.0\Utils.pdb
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.dll
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\refint\Utils.dll
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.pdb
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\Utils.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab07\Utils\obj\Debug\net8.0\ref\Utils.dll

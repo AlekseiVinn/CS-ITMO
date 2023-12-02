@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.sourcelink.json
+E:\C#\C# ITMO\Lab07\Bank\bin\Debug\net8.0\Bank.exe
+E:\C#\C# ITMO\Lab07\Bank\bin\Debug\net8.0\Bank.deps.json
+E:\C#\C# ITMO\Lab07\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+E:\C#\C# ITMO\Lab07\Bank\bin\Debug\net8.0\Bank.dll
+E:\C#\C# ITMO\Lab07\Bank\bin\Debug\net8.0\Bank.pdb
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.dll
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\refint\Bank.dll
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.pdb
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab07\Bank\obj\Debug\net8.0\ref\Bank.dll

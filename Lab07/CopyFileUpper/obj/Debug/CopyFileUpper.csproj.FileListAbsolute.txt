@@ -1,0 +1,7 @@
+E:\C#\C# ITMO\Lab07\CopyFileUpper\bin\Debug\CopyFileUpper.exe
+E:\C#\C# ITMO\Lab07\CopyFileUpper\bin\Debug\CopyFileUpper.pdb
+E:\C#\C# ITMO\Lab07\CopyFileUpper\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab07\CopyFileUpper\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab07\CopyFileUpper\obj\Debug\CopyFileUpper.exe
+E:\C#\C# ITMO\Lab07\CopyFileUpper\obj\Debug\CopyFileUpper.pdb
+E:\C#\C# ITMO\Lab07\CopyFileUpper\bin\Debug\CopyFileUpper.exe.config
