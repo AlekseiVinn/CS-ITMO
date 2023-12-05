@@ -1,0 +1,6 @@
+E:\C#\C# ITMO\Lab11\AUDIT\bin\Debug\Audit.dll
+E:\C#\C# ITMO\Lab11\AUDIT\bin\Debug\Audit.pdb
+E:\C#\C# ITMO\Lab11\AUDIT\obj\Debug\Audit.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab11\AUDIT\obj\Debug\Audit.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab11\AUDIT\obj\Debug\Audit.dll
+E:\C#\C# ITMO\Lab11\AUDIT\obj\Debug\Audit.pdb

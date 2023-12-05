@@ -1,0 +1,9 @@
+E:\C#\C# ITMO\Lab12\TESTHARNESS\bin\Debug\TestHarness.exe
+E:\C#\C# ITMO\Lab12\TESTHARNESS\bin\Debug\TestHarness.pdb
+E:\C#\C# ITMO\Lab12\TESTHARNESS\bin\Debug\Bank.dll
+E:\C#\C# ITMO\Lab12\TESTHARNESS\bin\Debug\Bank.pdb
+E:\C#\C# ITMO\Lab12\TESTHARNESS\obj\Debug\TestHarness.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab12\TESTHARNESS\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab12\TESTHARNESS\obj\Debug\TestHarness.csproj.CopyComplete
+E:\C#\C# ITMO\Lab12\TESTHARNESS\obj\Debug\TestHarness.exe
+E:\C#\C# ITMO\Lab12\TESTHARNESS\obj\Debug\TestHarness.pdb

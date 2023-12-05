@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab09\Shape\bin\Debug\net8.0\Shape.exe
+E:\C#\C# ITMO\Lab09\Shape\bin\Debug\net8.0\Shape.deps.json
+E:\C#\C# ITMO\Lab09\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+E:\C#\C# ITMO\Lab09\Shape\bin\Debug\net8.0\Shape.dll
+E:\C#\C# ITMO\Lab09\Shape\bin\Debug\net8.0\Shape.pdb
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.sourcelink.json
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.dll
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\refint\Shape.dll
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.pdb
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab09\Shape\obj\Debug\net8.0\ref\Shape.dll

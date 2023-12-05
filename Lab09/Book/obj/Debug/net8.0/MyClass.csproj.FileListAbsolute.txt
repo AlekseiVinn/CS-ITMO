@@ -1,0 +1,15 @@
+E:\C#\C# ITMO\Lab09\Book\bin\Debug\net8.0\MyClass.exe
+E:\C#\C# ITMO\Lab09\Book\bin\Debug\net8.0\MyClass.deps.json
+E:\C#\C# ITMO\Lab09\Book\bin\Debug\net8.0\MyClass.runtimeconfig.json
+E:\C#\C# ITMO\Lab09\Book\bin\Debug\net8.0\MyClass.dll
+E:\C#\C# ITMO\Lab09\Book\bin\Debug\net8.0\MyClass.pdb
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.AssemblyInfoInputs.cache
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.AssemblyInfo.cs
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.sourcelink.json
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.dll
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\refint\MyClass.dll
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.pdb
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\MyClass.genruntimeconfig.cache
+E:\C#\C# ITMO\Lab09\Book\obj\Debug\net8.0\ref\MyClass.dll

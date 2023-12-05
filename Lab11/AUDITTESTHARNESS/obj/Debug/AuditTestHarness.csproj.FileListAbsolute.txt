@@ -1,0 +1,9 @@
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.exe
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.pdb
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\bin\Debug\Audit.dll
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\bin\Debug\Audit.pdb
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.CopyComplete
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.exe
+E:\C#\C# ITMO\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.pdb

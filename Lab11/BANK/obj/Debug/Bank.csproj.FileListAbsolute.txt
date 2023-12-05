@@ -1,0 +1,6 @@
+E:\C#\C# ITMO\Lab11\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\C#\C# ITMO\Lab11\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\C#\C# ITMO\Lab11\BANK\bin\Debug\Bank.dll
+E:\C#\C# ITMO\Lab11\BANK\bin\Debug\Bank.pdb
+E:\C#\C# ITMO\Lab11\BANK\obj\Debug\Bank.dll
+E:\C#\C# ITMO\Lab11\BANK\obj\Debug\Bank.pdb
